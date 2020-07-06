@@ -1,0 +1,139 @@
+   .container{
+       margin-bottom: 50px;
+   }
+   
+
+    /*-------------------- Hero Section Start ------------------*/
+    .carousel-item{
+        padding: 15px 30px;
+    }
+ 
+    .prod-info{
+        padding: 60px;
+    }
+ 
+    .prod-info p{
+         color: grey;
+         padding: 15px 0;
+     
+     }   
+ 
+     .prod-info button{
+          position: relative;
+     }
+ 
+     .prod-info i {
+         position: absolute;
+         top: 238px;
+         left: 200px;
+         color: white;
+         font-weight: 100;
+     }
+ 
+     .my-button {
+         color: white;
+         background-color: black;
+         border-radius: 10px;
+         border: none;
+         padding: 14px 52px 14px 42px;
+         transition: .3s;
+     }
+ 
+     .my-button:hover {
+         background-color: rgba(0, 0, 0, 0.699);
+     }
+ 
+    .carousel-control-prev-icon {
+     background-color: gainsboro;
+     margin-left: -150px;
+     padding: 15px;
+     }
+ 
+     .carousel-control-next-icon{
+         background-color: gainsboro;
+         margin-right: -150px;
+         padding: 15px;
+     }
+ 
+     .carousel-indicators li{
+         width: 60px;
+         height: 10px;
+         background-color: yellow;
+     }
+    /*-------------------- Hero Section End ------------------*/
+
+
+
+
+
+    /*-------------------- Smartphone & Laptop Section Start ------------------*/
+    .yellow{
+        color: rgb(255, 196, 0);
+        font-weight: 600;
+    }
+
+    .card{
+        padding: 30px 30px;
+        border: none;
+        box-shadow: 3px 3px 7px grey;
+        text-align: center;
+    }
+
+    .card img{
+        width: 200px;
+        height: 200px;
+        margin: auto;
+    }
+
+    .card-button i {
+        position: absolute;
+        color: white;
+        top: 405px;
+        right: 115px;
+    }
+    /*-------------------- Smartphone & Laptop Section End ------------------*/
+
+
+
+
+
+    /*-------------------- Categories Section Start ------------------*/
+    hr {
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+        border: 0;
+        border-top: 7px solid rgb(255, 196, 0);
+        border-radius: 50px;
+        width: 121px;
+    }
+
+    .troly{
+        width: 600px;
+    }
+
+    .category-area{
+        
+    }
+
+    .box-shadow{
+        box-shadow: 2px 2px 15px rgba(48, 47, 47, 0.247);
+        padding: 30px;
+        text-align: center;
+    }
+
+    .bag {
+        border-radius: 0 10px 0 50px;
+    } 
+
+    .beauty {
+    margin-bottom: 30px;
+    border-radius: 10px 0 50px 0;
+}
+
+    .shoes{
+        border-radius: 10px 0 50px 0;
+    }
+    /*-------------------- Categories Section End ------------------*/
+
+
+
